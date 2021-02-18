@@ -17,9 +17,9 @@ A minimal a Computer Vision-based approach to solve the Day Vs Night Classificat
 
 ## Train:
 ```
-$run train.py file
+$run train.py file.
 
 ## Predict:
 ```
-$run app_api.py file
-$run client.py file
+$run app_api.py file.
+$run client.py file.
