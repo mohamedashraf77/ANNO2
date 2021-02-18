@@ -14,12 +14,11 @@ A minimal a Computer Vision-based approach to solve the Day Vs Night Classificat
    ##### Download DNIM dataset:
    http://users.umiacs.umd.edu/~hzhou/dnim.html
 
+## Predict
+Run app_api.py then run client.py.
 
-## Train:
-```
-   $run train.py file.
 
-## Predict:
+## Train
 ```
-   $run app_api.py file.
-   $run client.py file.
+$ RUn train.py
+
